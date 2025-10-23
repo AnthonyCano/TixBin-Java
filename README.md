@@ -1,2 +1,2 @@
 # TixBin-Java
-TixBin rebuilt with Java and Spring Boot.
+TixBin backend that is currently being rebuilt with Java and Spring Boot!
